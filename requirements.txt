@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+nltk
+joblib
+matplotlib
+seaborn
+wordcloud
+streamlit
+# tensorflow (not yet supported on Python 3.14)
